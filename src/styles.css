@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+.h3{
+    background: #eee;
+    padding: 20px;
+    border-radius: 10px;
+}
