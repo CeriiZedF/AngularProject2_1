@@ -1,3 +1,6 @@
+![Screenshot 2024-04-01 191326](https://github.com/CeriiZedF/project2_1/assets/60105990/dca5c42b-f83b-4963-9a58-222808395f98)
+
+
 # Project21
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
